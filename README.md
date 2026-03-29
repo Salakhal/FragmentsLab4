@@ -62,7 +62,10 @@ Contient une `SeekBar` (curseur) et un `TextView`.
 Voici un aperçu du fonctionnement de l'application (Navigation, Animations, et Rotation) :
 
 
-https://github.com/user-attachments/assets/7879ac52-176f-4932-9f26-31971e63dee8
+
+https://github.com/user-attachments/assets/e9b4c524-deb8-40f5-bcbc-9a095b04a41b
+
+
 
 
 
