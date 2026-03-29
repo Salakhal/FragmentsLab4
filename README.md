@@ -61,7 +61,10 @@ Contient une `SeekBar` (curseur) et un `TextView`.
 ## 📺 Démo Vidéo
 Voici un aperçu du fonctionnement de l'application (Navigation, Animations, et Rotation) :
 
-[Lien_de_ta_vidéo_ici]
+
+https://github.com/user-attachments/assets/7879ac52-176f-4932-9f26-31971e63dee8
+
+
 
 > **Note :** On peut observer la transition fluide entre Fragment 1 et Fragment 2 ainsi que la persistance de la valeur de la SeekBar.
 ---
